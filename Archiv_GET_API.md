@@ -1,22 +1,20 @@
-# API Dokumentation
+# Get Archive by ID
 
-## Get Archive by ID
-
-### GET /api/Archive/{archiveguid}
+## GET /api/Archive/{archiveguid}
 
 Ruft Informationen über ein bestimmtes Archiv anhand seiner eindeutigen Kennung ab.
 
-#### Headers
+### Headers
 
 - Content-Type: application/json
 - Authorization: Bearer <token>
 
-#### Body Parameter
+### Body Parameter
 
 - name (string): Name des Benutzers.
 - age (number): Alter des Benutzers.
 
-#### Response
+### Response
 
 - 200 OK: Erfolgreich Archivdetails abgerufen.
   ```json
