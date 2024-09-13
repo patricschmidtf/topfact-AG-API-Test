@@ -1,6 +1,6 @@
 # Get Archive by ID
 
-## GET /api/Archive/{archiveguid}
+##/api/Archive/{archiveguid}
 
 Ruft Informationen über ein bestimmtes Archiv anhand seiner eindeutigen Kennung ab.
 
