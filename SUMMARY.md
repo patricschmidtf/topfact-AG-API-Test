@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Projektname: Web-API Integration](README.md)
+* [Willkommen zur topfact AG Dokumentation](README.md)
 * [Get Archive by ID](Archiv\_GET\_API.md)
