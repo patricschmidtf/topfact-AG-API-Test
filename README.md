@@ -42,8 +42,8 @@ Aus Dateien Dokumente machen, nachvollziehbar, eindeutig, sicher. Wir haben es u
 
 Wenn Sie Fragen haben oder weitere Unterstützung benötigen, können Sie uns jederzeit kontaktieren:
 
-- **E-Mail**: [support@topfact.com](https://topfact.de/service-support)
-- **Telefon**: +49 123 456 789
+- **E-Mail**: vertrieb@topfact.de
+- **Telefon**: +49 8031 / 350 797-0
 - **Website**: [www.topfact.com](https://topfact.de/)
 
 ---
