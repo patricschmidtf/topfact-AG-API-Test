@@ -1,4 +1,4 @@
-# ![Topfact AG Logo]([https://your-logo-url.com/logo.png](https://topfact.de/files/topfact/logo/logo-neu.png)) Willkommen zur **topfact AG** Dokumentation
+![topfactAG Logo]([https://topfact.de/files/topfact/headers/header-home-neu.png](https://topfact.de/files/topfact/logo/logo-neu.png)) Willkommen zur **topfact AG** Dokumentation
 
 Herzlich willkommen zur offiziellen **topfact AG** Dokumentation! Hier finden Sie alle relevanten Informationen, die Sie benötigen, um unsere Produkte und Dienstleistungen optimal zu nutzen.
 
