@@ -21,7 +21,7 @@ Ruft Informationen über ein bestimmtes Archiv anhand seiner eindeutigen Kennung
     ```json
     {
       "id": "1",
-      "name": "John",
-      "age": 30
+      "name": "topfact AG",
+      "age": 20
     }
     ```
