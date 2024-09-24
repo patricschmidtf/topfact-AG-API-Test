@@ -49,7 +49,7 @@ This document provides a detailed overview of the system architecture, explainin
 
 * **Pull API**: The overarching API that facilitates communication between the User Interface, Web App, and Azure Search components.
 
-![Azure Diagram](https://github.com/patricschmidtf/topfact-AG-API-Test/blob/3d09c05120156c9a0dddf4f38af3be89c28b5f86/Azure%20Dokumentation.md/AzureDiagram.png)
+![Azure Diagram](https://topfact-my.sharepoint.com/:i:/g/personal/nam_pham_topfact_de/EWz5H7KCA7RPnz-Nd5-2us0BsFWYRVr4wzjU4eLWloLj0A?e=aQ7wXL)
 
 ### Conclusion
 
