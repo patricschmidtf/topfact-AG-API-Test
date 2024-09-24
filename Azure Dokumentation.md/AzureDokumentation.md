@@ -52,3 +52,7 @@ This document provides a detailed overview of the system architecture, explainin
 ### Conclusion
 
 This documentation provides a comprehensive overview of the system architecture, detailing each component and its interactions. By following this documentation, users and developers can understand and work with the system effectively.
+
+![Azure Diagram](https://github.com/patricschmidtf/topfact-AG-API-Test/blob/259dde6515abaa4e943309833934df0772fae0ad/Azure%20Dokumentation.md/AzureDiagram.png)
+
+<figure><img src=".gitbook/assets/AzureDiagram.png" alt=""><figcaption></figcaption></figure>
