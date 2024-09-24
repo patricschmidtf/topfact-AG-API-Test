@@ -1,7 +1,3 @@
-# Azure Dokumentation
-
-
-
 ## System Architecture Documentation
 
 ### Overview
