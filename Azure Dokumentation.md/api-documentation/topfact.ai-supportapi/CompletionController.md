@@ -7,7 +7,10 @@ Welcome to the **topfact AI Support API** documentation! This API provides a rob
 
 - [API Overview](#api-overview)
 - [Authentication](#authentication)
-- [Comunication with 3 services](chat-completion-options-configuration.md)
+- [Comunication with 3 services:]
+  - [Chat Completion Options Config](chat-completion-options-configuration.md)
+  - [Chat Response Processing](chat-response-processing.md)
+  - [Client Initialization Logic](client-initialization-logic.md)
 - [API Endpoints](#api-endpoints)
   - [Get Chat Completions](#get-chat-completions)
 - [Error Handling](#error-handling)
