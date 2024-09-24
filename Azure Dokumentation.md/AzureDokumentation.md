@@ -47,7 +47,7 @@ This document provides a detailed overview of the system architecture, explainin
 
 ### API Integration
 
-* **Pull API**: The overarching API that facilitates communication between the User Interface, Web App, and Azure Search components.
+* **Azure API**: The API that serves as the communication layer between the User Interface, Web Application, and Azure Search. It handles requests from the UI and Web App, retrieves data from Azure Search, and returns results to be displayed in the application. This API ensures efficient data exchange and integration across these components, enabling smooth functionality within the system.
 
 ### Conclusion
 
