@@ -1,4 +1,4 @@
-Was ist RAG
+Was ist RAG ?
 
 RAG steht für Retrieval-Augmented Generation und bezieht sich auf eine Technik in der Künstlichen Intelligenz, die die Stärken von Informationsabruf und Textgenerierung kombiniert. 
 Hier sind die wesentlichen Punkte zu RAG:
