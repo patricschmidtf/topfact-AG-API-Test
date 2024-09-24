@@ -1,6 +1,6 @@
 # Azure Dokumentation
 
-![topfactAG Logo](https://topfact.de/files/topfact/logo/logo-neu.png)
+
 
 ## System Architecture Documentation
 
