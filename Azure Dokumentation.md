@@ -1,5 +1,5 @@
 # System Architecture Documentation
-![Azure Architecture]((https://topfact-my.sharepoint.com/:i:/g/personal/nam_pham_topfact_de/Eet6ME3oeStKo1yNStEIDw8BeXtoQ0DAntf562a8UxwOGA?e=kfXip0))
+![Azure Architecture](https://topfact-my.sharepoint.com/:i:/g/personal/nam_pham_topfact_de/Eet6ME3oeStKo1yNStEIDw8BeXtoQ0DAntf562a8UxwOGA?e=kfXip0)
 
 ## Overview
 This document provides a detailed overview of the system architecture, explaining each component and its role within the system. The goal is to ensure that anyone reviewing this diagram can understand and work with the system effectively.
