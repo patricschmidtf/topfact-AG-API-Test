@@ -1,6 +1,3 @@
-# topfact.AI.SupportAPI
-
-This repository contains the implementation of the `topfact.AI.SupportAPI` namespace, which is designed to process chat responses using Azure OpenAI services. It provides functionality for logging intents, creating user messages, and extracting citation GUIDs from chat responses.
 
 ## Overview
 
