@@ -1,8 +1,8 @@
 # Azure Dokumentation
 
-## System Architecture Documentation
-
 <figure><img src=".gitbook/assets/AzureDiagram.png" alt=""><figcaption><p>Azure Diagram</p></figcaption></figure>
+
+## System Architecture Documentation
 
 ### Overview
 
