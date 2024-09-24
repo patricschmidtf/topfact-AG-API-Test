@@ -1,6 +1,6 @@
 # System Architecture Documentation
 
-!\[Azure Architecture]\([Azure Architecture](https://topfact-my.sharepoint.com/:i:/g/personal/nam\_pham\_topfact\_de/Eet6ME3oeStKo1yNStEIDw8BeXtoQ0DAntf562a8UxwOGA?e=kfXip0))
+!\[Azure Architecture]\(https://github.com/patricschmidtf/topfact-AG-API-Test/blob/2cc79394c3cd189f6a3d6dd60404d229d5dd1253/Azure%20Diagram.png)
 
 ## Overview
 
