@@ -1,5 +1,5 @@
 # System Architecture Documentation
-![Azure Architecture](C:\Users\Nam.Pahm\Pictures\Azure Diagram.png)
+![Azure Architecture](Azure Diagram.png)
 
 ## Overview
 This document provides a detailed overview of the system architecture, explaining each component and its role within the system. The goal is to ensure that anyone reviewing this diagram can understand and work with the system effectively.
