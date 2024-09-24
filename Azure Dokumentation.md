@@ -1,7 +1,7 @@
+![topfactAG Logo](https://topfact.de/files/topfact/logo/logo-neu.png) 
+
 # System Architecture Documentation
 ![Azure Architecture](https://github.com/patricschmidtf/topfact-AG-API-Test/blob/f95446d53fbbac1fdd5cb6d25b275a415bd4e437/Azure%20Diagram.png)
-
-![topfactAG Logo](https://topfact.de/files/topfact/logo/logo-neu.png) 
 
 ## Overview
 This document provides a detailed overview of the system architecture, explaining each component and its role within the system. The goal is to ensure that anyone reviewing this diagram can understand and work with the system effectively.
