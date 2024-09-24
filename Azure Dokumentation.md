@@ -1,6 +1,9 @@
+![topfactAG Logo](https://topfact.de/files/topfact/logo/logo-neu.png) 
+
 # System Architecture Documentation
 
-!\[Azure Architecture]\(https://github.com/patricschmidtf/topfact-AG-API-Test/blob/2cc79394c3cd189f6a3d6dd60404d229d5dd1253/Azure%20Diagram.png)
+![Azure Diagram](https://github.com/patricschmidtf/topfact-AG-API-Test/raw/2cc79394c3cd189f6a3d6dd60404d229d5dd1253/Azure%20Diagram.png)
+
 
 ## Overview
 
