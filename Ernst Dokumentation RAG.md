@@ -18,14 +18,14 @@ Ein Large Language Model (LLM) ist ein KI-System, das durch das Training mit gro
 
 <img src="https://www.wisecube.ai/wp-content/uploads/2023/05/Featured-Blog-Image-A-Comprehensive-Overview-of-Large-Language-Models-1024x768.jpg" alt="Alt-Text" width="400">
 
+RAG Architektur
 
-
-1. Der *User* stellt eine Frage (Frage...).
-2. Diese Frage wird an ein Large Language Model (LLM) weitergeleitet.
-3. Parallel dazu wird eine Indexierung der relevanten Dokumente durchgeführt:
+Der *User* stellt eine Frage (Frage...).
+Diese Frage wird an ein Large Language Model (LLM) weitergeleitet.
+Parallel dazu wird eine Indexierung der relevanten Dokumente durchgeführt:
    - Die Dokumente werden in kleinere *Chunks* aufgeteilt.
    - Ein *Embedding-Modell* erstellt für jeden Chunk eine numerische Darstellung (Embeddings), zum Beispiel in Form eines Vektors wie [0.3, 0.1, 0.7].
-4. Die Embeddings werden dann durch einen *Vector Store* gespeichert.
-5. Basierend auf der ursprünglichen Frage des Nutzers, wird eine Suche nach den relevanten Dokumenten durchgeführt.
-6. Die relevanten Dokumente werden an das LLM zurückgegeben, welches die Antwort darauf vorbereitet.
-7. Schließlich erhält der User eine Antwort, die auf den relevanten Dokumenten basiert.
+Die Embeddings werden dann durch einen *Vector Store* gespeichert.
+Basierend auf der ursprünglichen Frage des Nutzers, wird eine Suche nach den relevanten Dokumenten durchgeführt.
+Die relevanten Dokumente werden an das LLM zurückgegeben, welches die Antwort darauf vorbereitet.
+Schließlich erhält der User eine Antwort, die auf den relevanten Dokumenten basiert.
