@@ -29,3 +29,5 @@ Die Embeddings werden dann durch einen *Vector Store* gespeichert.
 Basierend auf der ursprünglichen Frage des Nutzers, wird eine Suche nach den relevanten Dokumenten durchgeführt.
 Die relevanten Dokumente werden an das LLM zurückgegeben, welches die Antwort darauf vorbereitet.
 Schließlich erhält der User eine Antwort, die auf den relevanten Dokumenten basiert.
+
+![Alternativtext](C:\Users\christian.ernst\Documents\Bild Github Dokumentation)
