@@ -15,6 +15,7 @@ Im Wesentlichen nutzt RAG die besten Teile von Wissen abrufen und Text generiere
 Was ist ein Large Language Model ?
 
 Ein Large Language Model (LLM) ist ein KI-System, das durch das Training mit großen Mengen an Text Sprache verstehen und erzeugen kann. Es nutzt Embedding-Modelles, um Wörter in numerische Vektoren umzuwandeln, die deren Bedeutung im Kontext erfassen. Mithilfe neuronaler Netzwerke verarbeitet es diese Vektoren, lernt sprachliche Strukturen und generiert darauf basierend Antworten, Texte oder neue Informationen.
+
 <img src="https://www.wisecube.ai/wp-content/uploads/2023/05/Featured-Blog-Image-A-Comprehensive-Overview-of-Large-Language-Models-1024x768.jpg" alt="Alt-Text" width="400">
 
 
