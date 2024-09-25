@@ -30,4 +30,4 @@ Basierend auf der ursprünglichen Frage des Nutzers, wird eine Suche nach den re
 Die relevanten Dokumente werden an das LLM zurückgegeben, welches die Antwort darauf vorbereitet.
 Schließlich erhält der User eine Antwort, die auf den relevanten Dokumenten basiert.
 
-![RAG Architektur Grafik](tf-dc01/topfact/Einarbeitungen/Mitarbeiter/Christian Ernst/Bild Github Dokumentation)
+![RAG Architektur Grafik] (https://github.com/patricschmidtf/topfact-AG-API-Test/blob/3e22fa4713c51acdd4a368fdf869b3096fc2cf44/Diagramm.png)
