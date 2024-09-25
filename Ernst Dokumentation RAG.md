@@ -10,4 +10,4 @@ Generierung einer Antwort: Schließlich erstellt das Modell eine Antwort, die so
 um eine präzise und kontextuelle Antwort zu liefern.
 
 Im Wesentlichen nutzt RAG die besten Teile von Wissen abrufen und Text generieren, um informierte Antworten zu geben.
-https://blogs.nvidia.com/wp-content/uploads/2023/11/Retrieval-Augmented-Generation-RAG-KV-1.jpg
+![Alt-Text](https://example.com/bild.jpg)
