@@ -113,11 +113,3 @@ Content-Type: application/json
 ### Example Response
 
 On success, the API will return a structured response containing the chat completion and any associated citations.
-
-## Contributing
-
-We welcome contributions to the topfact AI Support API! Please feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License.
