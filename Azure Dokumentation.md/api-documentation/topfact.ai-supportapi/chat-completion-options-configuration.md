@@ -75,15 +75,3 @@ var chatConfig = new ChatCompletionOptionsConfiguration(logger, settings, secret
 var chatOptions = chatConfig.ConfigureChatCompletionOptions();
 chatConfig.AddAzureCognitiveSearch(chatOptions);
 ```
-
-## Logging
-
-The class utilizes logging to track issues related to configuration. Ensure that logging is properly set up in your application to capture these logs.
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements or fixes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
