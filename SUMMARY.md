@@ -4,5 +4,5 @@
 
 ## Functionality
 
-* [QuickIndex Reset](<README (1).md>)
-  * [Page 1](functionality/quickindexreset/page-1.md)
+* [QuickIndex Functionality](<README (1).md>)
+  * [QuickIndex Reset](functionality/quickindexreset/quickindex-reset.md)
