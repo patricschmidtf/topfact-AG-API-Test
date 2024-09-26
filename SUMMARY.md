@@ -2,4 +2,4 @@
 
 ## Functionality
 
-* [QuickIndex Reset](functionality/quickindex-zurucksetzen/QuickIndexReset.md)
+* [QuickIndex Reset](README.md)
