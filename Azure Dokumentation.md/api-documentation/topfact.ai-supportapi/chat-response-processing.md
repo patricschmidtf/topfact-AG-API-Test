@@ -54,15 +54,3 @@ var citations = new List<AzureChatCitation>
 var manipulatedCompletion = new ChatCompletionRefinedData();
 processingService.ExtractCitationsGuid(citations, manipulatedCompletion);
 ```
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For support or inquiries, please contact [your-email@example.com].
