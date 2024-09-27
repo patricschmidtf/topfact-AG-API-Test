@@ -32,6 +32,8 @@ After that, you need to select or add a data source. Fill in the columns as show
 
 **5. Add data**
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 In the Data Management section, you can select your "Search type." Choose "Keywords" to enable the AI to understand and process your requests effectively.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Data Management</p></figcaption></figure>
