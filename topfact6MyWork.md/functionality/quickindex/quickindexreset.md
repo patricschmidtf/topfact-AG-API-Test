@@ -1,8 +1,8 @@
 # QuickIndexReset
 
-**Functionality:** The `btnResetQuickIndex_Click` method is triggered when the user clicks the 'Reset QuickIndex' button to reset the QuickIndex settings.
-
 **Why reset?** The window parameters for QuickIndex are outside a usable range and need to be reset. The document is not displayed!
+
+**Functionality:** The `btnResetQuickIndex_Click` method is triggered when the user clicks the 'Reset QuickIndex' button to reset the QuickIndex settings.
 
 **Description:**
 
@@ -14,3 +14,5 @@
 * **Error Handling:** If an error occurs, it is suppressed in the `catch` block, without showing a specific error message.
 
 **Link to the part of the code for this function:** [<mark style="color:blue;">Link</mark>](https://github.com/topfact-AG/topfact6/blob/97253914e8f78c153a791c816fd44a15f42987ed/topfact.MyWork/topfact.MyWork/Forms/Settings/frmUserSettings.cs#L378)
+
+**Link to the User Documentation:** [<mark style="color:blue;">Link</mark>](https://services.topfact.de/wiki/pages/view?g=60448220-ae05-4bcc-9b05-f1d6f1fc058d)
