@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Azure Dokumentation](README.md)
+* [📖 Azure Dokumentation](README.md)
+* [🧑‍🏫 Azure Chatbot Tutorial](azure-chatbot-tutorial/README.md)
+  * [Create AI Search](azure-chatbot-tutorial/create-ai-search.md)
 
 ## API Documentation
 

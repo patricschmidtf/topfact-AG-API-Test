@@ -1,4 +1,4 @@
-# Azure Dokumentation
+# 📖 Azure Dokumentation
 
 <figure><img src=".gitbook/assets/AzureDiagramversion2.png" alt=""><figcaption><p>Azure Diagramm</p></figcaption></figure>
 
