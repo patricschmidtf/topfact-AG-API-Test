@@ -4,5 +4,7 @@
 
 ## Functionality
 
+* [Functionality](topfact6MyWork.md/Functionality)
+    * [QuickIndex](topfact6MyWork.md/Functionality/QuickIndex/QuickIndeReset.md)
 
   
