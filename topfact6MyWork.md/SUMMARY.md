@@ -2,8 +2,8 @@
 
 * [topfact6 MyWork](README.md)
 
-## Functionality
+## Function areas
 
-* [QuickIndex](functionality/quickindex/README.md)
-  * [QuickIndexReset](functionality/quickindex/quickindexreset.md)
-  * [Page](functionality/quickindex/page.md)
+* [MyWork User settings](function-areas/quickindex/README.md)
+  * [QuickIndexReset](function-areas/quickindex/quickindexreset.md)
+  * [Page](function-areas/quickindex/page.md)
