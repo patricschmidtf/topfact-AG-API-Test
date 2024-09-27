@@ -1,7 +1,5 @@
 # QuickIndexReset
 
-## QuickIndex Reset
-
 **Functionality:** The `btnResetQuickIndex_Click` method is triggered when the user clicks the 'Reset QuickIndex' button to reset the QuickIndex settings.
 
 **Why reset?** The window parameters for QuickIndex are outside a usable range and need to be reset. The document is not displayed!
