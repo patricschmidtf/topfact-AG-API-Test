@@ -1,6 +1,9 @@
 # Table of contents
 
 * [📖 Azure Dokumentation](README.md)
+* [🧑‍💻 Technical Logic](technical-logic/README.md)
+  * [RAG](technical-logic/rag.md)
+  * [LLM](technical-logic/llm.md)
 * [🧑‍🏫 Azure Chatbot Tutorial](azure-chatbot-tutorial/README.md)
   * [Create AI Search](azure-chatbot-tutorial/create-ai-search.md)
   * [Create Open AI](azure-chatbot-tutorial/create-open-ai.md)
