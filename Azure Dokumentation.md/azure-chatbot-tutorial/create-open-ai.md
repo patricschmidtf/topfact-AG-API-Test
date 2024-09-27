@@ -28,9 +28,9 @@ Now, click on "Chat" in the left sidebar and select your setup deployment. The n
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Playground</p></figcaption></figure>
 
-After that, you need to select or add a data source. Fill in the columns as shown in the picture below or customize them according to your preferences.
-
 **5. Add data**
+
+After that, you need to select or add a data source. Fill in the columns as shown in the picture below or customize them according to your preferences.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
