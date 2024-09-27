@@ -3,6 +3,8 @@
 * [📖 Azure Dokumentation](README.md)
 * [🧑‍🏫 Azure Chatbot Tutorial](azure-chatbot-tutorial/README.md)
   * [Create AI Search](azure-chatbot-tutorial/create-ai-search.md)
+  * [Create Open AI](azure-chatbot-tutorial/create-open-ai.md)
+  * [Create Azure Storage (Container)](azure-chatbot-tutorial/create-azure-storage-container.md)
 
 ## API Documentation
 
