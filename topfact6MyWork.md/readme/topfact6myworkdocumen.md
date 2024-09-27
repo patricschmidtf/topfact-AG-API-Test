@@ -1,6 +1,0 @@
----
-icon: sliders-up
----
-
-# Functionality
-
