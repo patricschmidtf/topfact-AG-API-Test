@@ -15,8 +15,6 @@ Welcome to the **topfact AI Support API** documentation! This API provides a rob
   - [Get Chat Completions](#get-chat-completions)
 - [Error Handling](#error-handling)
 - [Usage Examples](#usage-examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## API Overview
 
